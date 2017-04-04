@@ -34,7 +34,7 @@ option{
 }
 
 .chileImg-4, .limaImg-5, .limaImg-6{
-width: 25%;
+width: 20%;
 margin:0;
 padding: 25px;
 border-radius: 50px;
@@ -43,8 +43,8 @@ transform: scale(1);
 
 
  .chileImg-4:hover, .limaImg-5:hover, .limaImg-6:hover{
-   transform: scale(1.3);
-   transition:1.5s;
+   transform: scale(1.2);
+   transition:1.2s;
 
 }
 
